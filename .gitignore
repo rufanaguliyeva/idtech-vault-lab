@@ -1,0 +1,16 @@
+# Vault sensitive files
+*.token
+*.key
+*.pem
+*.env
+
+# Vault local data
+vault-data/
+raft-data/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
