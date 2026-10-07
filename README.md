@@ -132,11 +132,8 @@ vault kv metadata get idtech/dev/database
 vault kv get -version=1 idtech/dev/database
 vault kv get idtech/dev/database
 
-Tapşırıq KV v2-də dev/prod ayrılmasını, version history-ni və əvvəlki versiyanın ayrıca oxunmasını tələb edir. :contentReference[oaicite:0]{index=0}
 
-Saxla: `Ctrl + O` → `Enter` → `Ctrl + X`.
 
-**“oldu”** yaz, növbəti hissədə README-yə **Developer/Admin policy + token testləri + cURL 200/403** hissəsini əlavə edək.
 ## Access Policies
 
 Two policies were created following the least privilege principle.
